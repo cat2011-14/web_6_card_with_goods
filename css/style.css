@@ -1,0 +1,34 @@
+*{
+    background-color: #F6F6F6;
+    font-family: 'Roboto',sans-serif;
+}
+h1{
+    font-size: 36px;
+}
+.rectangle{
+    margin: auto;
+    width: 80%;
+    height: 40%;
+}
+.pic{
+    float: left;
+    margin-left: 10%;
+    left: 25%;
+    top: 150px;
+}
+.text{
+    margin-left: 50%;
+    left: 618px;
+    top: 380px;
+}
+button{
+    text-align: center;
+    background: #EC744A;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.price_1{
+    font-size: 30px;
+}
+
